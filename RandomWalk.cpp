@@ -1,5 +1,5 @@
 /*
-과제 2. Random Walk.  due 10/1
+Excercise.8 Random Walk.
  n x m 배열에서 인접한 8방향의 타일로 이동하는 바퀴벌레가
  모든타일을 적어도 한번씩 지나가는데 걸리는 시간은? 
   
