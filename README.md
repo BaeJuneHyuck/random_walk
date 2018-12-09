@@ -1,5 +1,5 @@
 ## random_walk
-#Fundamentals of Data Structures in c++ Chapter2.8 - Exercises 8 random walk
+# Fundamentals of Data Structures in c++ Chapter2.8 - Exercises 8 random walk
 
 **case 1**
 n =15, m = 15, Start point(9,9)
